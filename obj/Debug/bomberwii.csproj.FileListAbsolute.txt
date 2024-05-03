@@ -1,0 +1,11 @@
+D:\333\source\repos\bomberwii\bin\Debug\bomberwii.exe.config
+D:\333\source\repos\bomberwii\bin\Debug\bomberwii.exe
+D:\333\source\repos\bomberwii\bin\Debug\bomberwii.pdb
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.csproj.AssemblyReference.cache
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.csproj.SuggestedBindingRedirects.cache
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.Form1.resources
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.Properties.Resources.resources
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.csproj.GenerateResource.cache
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.csproj.CoreCompileInputs.cache
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.exe
+D:\333\source\repos\bomberwii\obj\Debug\bomberwii.pdb
